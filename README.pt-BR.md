@@ -253,7 +253,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👤 Autor
 
-**Ivan Googhoian Simurra**
+**Ivan Eiji Simurra**
 
 - GitHub: [@ieysimurra](https://github.com/ieysimurra)
 - Instituição: NICS/UNICAMP (Núcleo Interdisciplinar de Comunicação Sonora)
