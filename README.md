@@ -80,7 +80,7 @@ It-Looks-Like-I-Am-Sitting-in-a-Room/
 
 ### Using p5.js Web Editor (Recommended)
 
-1. Go to [p5.js Web Editor](https://editor.p5js.org/)
+1. Go to [p5.js Web Editor]([https://editor.p5js.org/](https://editor.p5js.org/ieysimurra/sketches/X_q8QkuEx))
 2. Create a new project
 3. Copy the contents of `sketch.js` to the sketch file
 4. Copy the contents of `style.css` to a new `style.css` file
@@ -270,9 +270,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Check out other interactive implementations of experimental music works:
 
-- [It Looks Like Mouse Music](https://github.com/ieysimurra/It-Looks-Like-Mouse-Music) - Christian Wolff
+- [It Looks Like Mouse Music](https://github.com/ieysimurra/It-Looks-Like-Mouse-Music) - Laurie Spiegel
 - [It Looks Like Artikulation](https://github.com/ieysimurra/It-Looks-Like-Artikulation) - György Ligeti
-- [It Looks Like On December](https://github.com/ieysimurra/It-Looks-Like-On-December) - On Kawara
+- [It Looks Like On December](https://github.com/ieysimurra/It-Looks-Like-On-December) - Earle Brown
 - [It Looks Like Pendulum Music](https://github.com/ieysimurra/It-Looks-Like-Pendulum-Music) - Steve Reich
 
 ---
