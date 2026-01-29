@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo
 
-**[▶️ Try it in the p5.js Web Editor](https://editor.p5js.org/)**
+**[▶️ Try it in the p5.js Web Editor](https://editor.p5js.org/ieysimurra/full/X_q8QkuEx)**
 
 Or run locally by opening `index.html` in a modern web browser.
 
