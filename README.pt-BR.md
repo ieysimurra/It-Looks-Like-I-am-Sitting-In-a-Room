@@ -54,7 +54,7 @@
 
 ## 🚀 Demo ao Vivo
 
-**[▶️ Experimente no p5.js Web Editor](https://editor.p5js.org/)**
+**[▶️ Experimente no p5.js Web Editor](https://editor.p5js.org/ieysimurra/sketches/X_q8QkuEx)**
 
 Ou execute localmente abrindo `index.html` em um navegador web moderno.
 
@@ -270,9 +270,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Confira outras implementações interativas de obras de música experimental:
 
-- [It Looks Like Mouse Music](https://github.com/ieysimurra/It-Looks-Like-Mouse-Music) - Christian Wolff
+- [It Looks Like Mouse Music](https://github.com/ieysimurra/It-Looks-Like-Mouse-Music) - Laurie Spiegel
 - [It Looks Like Artikulation](https://github.com/ieysimurra/It-Looks-Like-Artikulation) - György Ligeti
-- [It Looks Like On December](https://github.com/ieysimurra/It-Looks-Like-On-December) - On Kawara
+- [It Looks Like On December](https://github.com/ieysimurra/It-Looks-Like-On-December) - Earle Brown
 - [It Looks Like Pendulum Music](https://github.com/ieysimurra/It-Looks-Like-Pendulum-Music) - Steve Reich
 
 ---
