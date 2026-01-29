@@ -54,7 +54,7 @@
 
 ## 🚀 Demo ao Vivo
 
-**[▶️ Experimente no p5.js Web Editor](https://editor.p5js.org/ieysimurra/sketches/X_q8QkuEx)**
+**[▶️ Experimente no p5.js Web Editor](https://editor.p5js.org/ieysimurra/full/X_q8QkuEx)**
 
 Ou execute localmente abrindo `index.html` em um navegador web moderno.
 
